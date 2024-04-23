@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528657310951",
+    "project_id": "otptest-af53e",
+    "storage_bucket": "otptest-af53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528657310951:android:b575a950f38456a41eae42",
+        "android_client_info": {
+          "package_name": "com.example.inhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdTa41QiLk3wxWGfOdgsFlU3j4aFNvSTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
